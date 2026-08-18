@@ -29,7 +29,7 @@
   -
       📧 Email: [prestonmwangi02@gmail.com](mailto:prestonmwangi02@gmail.com)
   -   
-      🔗 LinkedIn: [Preston Mwangi](https://www.linkedin.com/in/prestonmwangi)
+      🔗 LinkedIn: [Preston Mwangi](https://www.linkedin.com/in/preston-mwangi/)
   -   
       🐙 GitHub: [Preston Mwangi](https://github.com/Prestonmwangi)
       
