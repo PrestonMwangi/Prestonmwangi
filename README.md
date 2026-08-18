@@ -27,11 +27,11 @@
   
 - ## 📫 How to reach me
   -
-      📧 Email: [prestonmwangi02@gmail.com]
+      📧 Email: [prestonmwangi02@gmail.com](mailto:prestonmwangi02@gmail.com)
   -   
-      🔗 LinkedIn: [linkedin.com/in/prestonmwangi]
+      🔗 LinkedIn: [Preston Mwangi](https://www.linkedin.com/in/prestonmwangi)
   -   
-      🐙 GitHub: [@Prestonmwangi]
+      🐙 GitHub: [Preston Mwangi](https://github.com/Prestonmwangi)
       
 *Learning by building, one project at a time.*
 
