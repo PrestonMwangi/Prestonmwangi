@@ -1,6 +1,6 @@
 ## Hi there, I'm Preston Mwangi👋
 
- ## Data Analyst | Aspiring Data Scientist
+ ## | Data Analyst 
   I'm building my foundation in data analysis through practical projects and real-world datasets, with a focus on understanding problems and turning data into useful insights.
   
 - ## 🔨 I’m currently working on
