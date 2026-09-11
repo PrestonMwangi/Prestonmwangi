@@ -1,40 +1,36 @@
-## Hi there, I'm Preston Mwangi👋
+# Hi there, I'm Preston Mwangi👋
 
- ## Mathematics and Applied Statistics Graduate
- ## Data Analytics | Python | SQL | Power BI | Excel 
-  I'm building my foundation in data analysis through practical projects and real-world datasets, with a focus on understanding problems and turning data into useful insights.
-  
-- ## 🔨 I’m currently working on
-  Building projects around sales, business, and financial data, using them to practice everything from data preparation and SQL analysis to data modeling and visualization.
-  My approach is simple: learn the concept, apply it to a project, and keep improving.
+## Mathematics and Applied Statistics Graduate | Data Analytics | Python | SQL | Power BI | Excel
 
-- ## 🌱 I’m currently learning
-  SQL — querying, transforming, and analyzing data
-  
-  Power BI — building dashboards and communicating insights
+I’m a Mathematics and Applied Statistics graduate focused on data analytics and business intelligence. I use Python, SQL, Power BI, and Excel to analyze data, uncover patterns, and turn findings into actionable insights.
 
-  Python — developing my foundation for data analysis and data science
+  ## Featured Projects
+#### [Candy Sales Analysis] (https://github.com/PrestonMwangi/Candy-Sales-Analysis)
+**Tools:** Power BI | DAX | Excel | Data Modeling
 
-  Statistics — strengthening my analytical thinking
-  
-- ## 💡 Areas of Interest
-   Data Analytics · Data Science · Business Intelligence · Finance
-  
-- ## 🔭 Looking Ahead
-   I'm working toward becoming a stronger data professional by gradually moving from data analysis into data science, while building a solid foundation along the way.
+#### [Maven Toys Sales Analysis] (https://github.com/PrestonMwangi/Mexico-Toy-Sales-Analysis)
+**Tools:** Power BI | DAX | Data Modeling |
 
-- ## 🤝 I’m open to collaborating on
-  Data analysis, open-data, and practical projects where I can contribute, learn, and build alongside others.
-  
-- ## 📫 How to reach me
+#### **[IN PROGRESS] (LINK )**
+**Tools:** Python | Pandas | Data Analysis
+
+## Technical Skills
+Languages: Python | SQL
+
+Analytics & BI: Power BI | DAX | Excel
+
+Data: Data Cleaning | Data Modeling | Data Visualization
+
+## Currently Learning
+Python for Data Analysis | Advanced Excel
+
+## 📫 How to reach me
   -
-      📧 Email: [prestonmwangi02@gmail.com](mailto:prestonmwangi02@gmail.com)
-  -   
-      🔗 LinkedIn: [Preston Mwangi](https://www.linkedin.com/in/preston-mwangi/)
+      📧 Email: [prestonmwangi02@gmail.com](prestonmwangi02@gmail.com)
   -   
       🐙 GitHub: [Preston Mwangi](https://github.com/Prestonmwangi)
       
-*Learning by building, one project at a time.*
-
+## Connect  
+### Open to collaborating on data analytics and business intelligence projects.
 
 Thanks for stopping by! Feel free to explore my projects. 👋
