@@ -1,6 +1,7 @@
 ## Hi there, I'm Preston Mwangi👋
 
- ## | Data Analyst 
+ ## Mathematics and Applied Statistics Graduate
+ ##|Data Analytics | Python | SQL | Power BI | Excel 
   I'm building my foundation in data analysis through practical projects and real-world datasets, with a focus on understanding problems and turning data into useful insights.
   
 - ## 🔨 I’m currently working on
