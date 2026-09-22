@@ -5,7 +5,7 @@
 I’m a Mathematics and Applied Statistics graduate focused on data analytics and business intelligence. I use Python, SQL, Power BI, and Excel to analyze data, uncover patterns, and turn findings into actionable insights.
 
   ## Featured Projects
-#### **[E-Commerce Sales Analysis](https://github.com/PrestonMwangi))**
+#### **[E-Commerce Sales Analysis](https://github.com/PrestonMwangi)**
 **Tools:** Python | Pandas | Data Analysis
 
 #### [Candy Sales Analysis](https://github.com/PrestonMwangi/Candy-Sales-Analysis)
