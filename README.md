@@ -1,10 +1,21 @@
-# Hi there, I'm Preston Mwangi👋
+Hi, I'm Preston Mwangi 👋
 
-## Mathematics and Applied Statistics Graduate | Data Analytics | Python | SQL | Power BI | Excel
+## Data Analytics | SQL | Power BI | Excel | Python
 
-I’m a Mathematics and Applied Statistics graduate focused on data analytics and business intelligence. I use Python, SQL, Power BI, and Excel to analyze data, uncover patterns, and turn findings into actionable insights.
+I’m an aspiring Data Analyst focused on using data to uncover insights and support better business decisions. I work with SQL, Power BI, Excel, and Python across data cleaning, analysis, visualization, and reporting.
 
-  ## Featured Projects
+I’m building hands-on analytics projects that apply these tools to real-world datasets, with a focus on developing strong analytical thinking and practical problem-solving skills.
+
+## Tools & Skills
+**Data Analysis:** SQL, Python, Excel
+
+**Business Intelligence:** Power BI, DAX
+
+**Data Preparation:** Power Query, data cleaning
+
+**Visualization:** Power BI, Excel, Matplotlib
+
+## Featured Projects
 #### **[E-Commerce Sales Analysis](https://github.com/PrestonMwangi/E-commerce-Sales-Analysis)**
 **Tools:** Python | Pandas | Data Analysis
 
@@ -14,15 +25,6 @@ I’m a Mathematics and Applied Statistics graduate focused on data analytics an
 #### [Maven Toys Sales Analysis](https://github.com/PrestonMwangi/Mexico-Toy-Sales-Analysis)
 **Tools:** Power BI | DAX | Data Modeling |
 
-## Technical Skills
-Languages: Python | SQL
-
-Analytics & BI: Power BI | DAX | Excel
-
-Data: Data Cleaning | Data Modeling | Data Visualization
-
-## Currently Learning
-Python for Data Analysis | Advanced Excel
 
 ## 📫 How to reach me
   -
