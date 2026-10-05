@@ -28,7 +28,7 @@ I’m building hands-on analytics projects that apply these tools to real-world 
 
 ## 📫 How to reach me
   -
-      📧 Email: [prestonmwangi02@gmail.com](prestonmwangi02@gmail.com)
+      📧 Email: [Preston Mwangi](prestonmwangi02@gmail.com)
   -   
       🐙 GitHub: [Preston Mwangi](https://github.com/Prestonmwangi)
       
