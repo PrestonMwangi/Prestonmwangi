@@ -19,7 +19,7 @@ I’m building hands-on analytics projects that apply these tools to real-world 
 #### **[E-Commerce Sales Analysis](https://github.com/PrestonMwangi/E-commerce-Sales-Analysis)**
 **Tools:** Python | Pandas | Data Analysis
 
-#### [Candy Sales Analysis](https://github.com/PrestonMwangi/Candy-Sales-Analysis)
+#### [Candy Profit Margin & Shipping Risk Analysis](https://github.com/PrestonMwangi/Candy-Sales-Analysis)
 **Tools:** Power BI | DAX | Excel | Data Modeling
 
 #### [Toy Retail Profitability & Store Performance Analysis](https://github.com/PrestonMwangi/Mexico-Toy-Sales-Analysis)
