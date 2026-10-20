@@ -16,6 +16,9 @@ I’m building hands-on analytics projects that apply these tools to real-world 
 **Visualization:** Power BI, Excel, Matplotlib
 
 ## Featured Projects
+#### **[Soko-Direct-Sales-Payment-Logistics-Performance-Analysis](https://github.com/PrestonMwangi/Soko-Direct-Sales-Payment-Logistics-Performance-Analysis)**
+**Tools:** Python (pandas, matplotlib) | SQL ( PostgreSQL ) | ( Data cleaning and Validation, Exploratory & KPI analysis )
+
 #### **[E-Commerce Sales Analysis](https://github.com/PrestonMwangi/E-commerce-Sales-Analysis)**
 **Tools:** Python | Pandas | Data Analysis
 
