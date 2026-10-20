@@ -22,7 +22,7 @@ I’m building hands-on analytics projects that apply these tools to real-world 
 #### [Candy Sales Analysis](https://github.com/PrestonMwangi/Candy-Sales-Analysis)
 **Tools:** Power BI | DAX | Excel | Data Modeling
 
-#### [Toy Retail Profitability & Store Performance Dashboard](https://github.com/PrestonMwangi/Mexico-Toy-Sales-Analysis)
+#### [Toy Retail Profitability & Store Performance Analysis](https://github.com/PrestonMwangi/Mexico-Toy-Sales-Analysis)
 **Tools:** Power BI | DAX | Data Modeling |
 
 
